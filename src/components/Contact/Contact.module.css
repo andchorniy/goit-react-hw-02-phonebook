@@ -1,0 +1,11 @@
+.btn {
+  font-size: 15px;
+  padding: 5px;
+  margin: auto;
+  border: none;
+  border-radius: 5px;
+  color: aliceblue;
+  background: red;
+  cursor: pointer;
+  margin-left: 15px;
+}
